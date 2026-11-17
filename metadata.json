@@ -1,0 +1,6 @@
+{
+  "name": "WaliKelas",
+  "description": "Sistem Manajemen Kelas & Pelaporan Akademik: data siswa, impor CSV, absensi harian, penilaian berbobot, jurnal sikap, rapor mini, ekspor CSV/PDF, dan backup JSON.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
